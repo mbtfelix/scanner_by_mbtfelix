@@ -1,0 +1,1 @@
+Fast, unbranded Android QR & barcode scanner/generator built with Kotlin & Jetpack Compose. Features live reticle scanning, offline Room history, Quick Settings tile, radial hub, and pure AMOLED black mode. A scanner that just works...!!!
