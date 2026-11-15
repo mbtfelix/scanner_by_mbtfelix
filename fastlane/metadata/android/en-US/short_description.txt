@@ -1,0 +1,1 @@
+A qr and barcode scanner that just works 
